@@ -1,0 +1,116 @@
+body {
+    background-color: #f6f1e9;
+    color: #272721;
+    font-family: Georgia, serif;
+}
+
+#header {
+    position: absolute;
+    top: 35px;
+    left: 60px;
+    width: 780px;
+}
+
+#header p {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 15px 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+a {
+    color: #713d36;
+}
+
+a:hover {
+    color: #272721;
+}
+
+a:focus {
+    outline: 2px solid #713d36;
+}
+
+#navigation {
+    position: absolute;
+    top: 260px;
+    left: 60px;
+    width: 780px;
+    padding: 20px 0;
+    border-top: 1px solid #b8afa4;
+    border-bottom: 1px solid #b8afa4;
+    font-family: Arial, sans-serif;
+}
+
+#navigation a {
+    margin-right: 35px;
+}
+
+#introduction {
+    position: absolute;
+    top: 360px;
+    left: 60px;
+    width: 740px;
+}
+
+#identity {
+    position: absolute;
+    top: 610px;
+    left: 60px;
+    width: 740px;
+    border-top: 1px solid #b8afa4;
+    padding-top: 15px;
+}
+
+#social {
+    position: absolute;
+    top: 960px;
+    left: 60px;
+    width: 740px;
+    border-top: 1px solid #b8afa4;
+    padding-top: 15px;
+}
+
+#experiences {
+    position: absolute;
+    top: 1310px;
+    left: 60px;
+    width: 740px;
+    border-top: 1px solid #b8afa4;
+    padding-top: 15px;
+}
+
+.number {
+    color: #713d36;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+#footer {
+    position: absolute;
+    top: 1680px;
+    left: 60px;
+    width: 740px;
+    border-top: 1px solid #b8afa4;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+#footer p {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
